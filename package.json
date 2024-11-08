@@ -1,0 +1,50 @@
+{
+  "name": "colorcycle",
+  "version": "1.0.0",
+  "description": "ColorCycle is a powerful and easy-to-use JavaScript package for handling various color format conversions. It allows users to input color names, hex, RGB, or HSL values, and get the corresponding color formats. The package supports color parsing, conversion, and validation for web development and design projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnatadi/colorcycle.git"
+  },
+  "keywords": [
+    "color conversion",
+    "hex to rgb",
+    "rgb to hex",
+    "hsl to hex",
+    "hex to hsl",
+    "random color",
+    "color parser",
+    "color utilities",
+    "color manipulation",
+    "web design",
+    "javascript colors",
+    "frontend",
+    "npm package"
+  ],
+  "author": "krishna tadi",
+  "contributors": [
+    {
+      "name": "Krishna Tadi",
+      "url": "https://github.com/krishnatadi"
+    }
+  ],
+  "maintainers": [
+  {
+    "name": "Krishna Tadi",
+    "email": ""
+  }
+],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnatadi/colorcycle/issues"
+  },
+  "homepage": "https://github.com/krishnatadi/colorcycle#readme",
+  "metrics": {
+  "downloads": "https://npm-stat.com/charts.html?package=colorcycle",
+  "contributors": "https://github.com/krishnatadi/colorcycle/graphs/contributors"
+}
+}
